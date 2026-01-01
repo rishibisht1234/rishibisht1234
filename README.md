@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rishi-bisht-476383360">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/rishi-bisht">
+  <a href="https://github.com/rishibisht1234">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -21,10 +21,10 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&hide_border=true" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=rishibisht1234&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula&hide_border=true" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishibisht1234&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
 </div>
