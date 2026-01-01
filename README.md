@@ -52,9 +52,7 @@ Projects will be added as they are completed.
 
 ## Professional Links
 
-- **GitHub:** https://github.com/your-username
+- **GitHub:** https://github.com/rishibisht1234
 - **LinkedIn:** https://www.linkedin.com/in/rishi-bisht-476383360
 
 ---
-
-**Interests**
